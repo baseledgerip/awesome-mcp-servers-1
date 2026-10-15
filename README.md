@@ -227,6 +227,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[RAD Security](https://github.com/rad-security/mcp-server)** - Interact with the RAD Security platform which provides AI-powered security insights for Kubernetes and cloud environments.
 - **[Ramp](https://github.com/ramp-public/ramp-mcp)** - Interact with [Ramp](https://ramp.com)'s Developer API to run analysis on your spend and gain insights leveraging LLMs
 - **[Raygun](https://github.com/MindscapeHQ/mcp-server-raygun)** - Interact with your crash reporting and real using monitoring data on your Raygun account
+- **[RealRun](https://github.com/baseledgerip/realrun-mcp)** - Read-only lookups of [RealRun](https://realrun.baseledgerip.com)'s independent tests of AI models on everyday tasks: scores, model recommendations and safety warnings. Remote endpoint: `https://realrun.baseledgerip.com/mcp` (no auth).
 - **[Reexpress](https://github.com/ReexpressAI/reexpress_mcp_server)** - Enable Similarity-Distance-Magnitude statistical verification for your search, software, and data science workflows
 - **[Ref](https://github.com/ref-tools/ref-tools-mcp)** - Up-to-date documentation for your coding agent. Covers 1000s of public repos and sites. Built by [ref.tools](https://ref.tools/)
 - **[Rember](https://github.com/rember/rember-mcp)** - Create spaced repetition flashcards in [Rember](https://rember.com) to remember anything you learn in your chats
